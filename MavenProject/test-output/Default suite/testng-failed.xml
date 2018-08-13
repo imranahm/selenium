@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.endToEndTest.EndToEndTest">
+        <methods>
+          <include name="createContactTest"/>
+          <include name="configBeforeClass"/>
+          <include name="configBS"/>
+        </methods>
+      </class> <!-- com.endToEndTest.EndToEndTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
