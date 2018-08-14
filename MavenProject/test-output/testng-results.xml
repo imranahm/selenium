@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="116316" started-at="2018-08-13T19:46:34Z" finished-at="2018-08-13T19:48:30Z">
+  <suite name="Default suite" duration-ms="223170" started-at="2018-08-14T00:26:24Z" finished-at="2018-08-14T00:30:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="116316" started-at="2018-08-13T19:46:34Z" finished-at="2018-08-13T19:48:30Z">
+    <test name="Default test" duration-ms="223170" started-at="2018-08-14T00:26:24Z" finished-at="2018-08-14T00:30:08Z">
       <class name="com.endToEndTest.EndToEndTest">
-        <test-method status="PASS" signature="configBS()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configBS" is-config="true" duration-ms="547" started-at="2018-08-14T01:16:33Z" finished-at="2018-08-14T01:16:34Z">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configBS" is-config="true" duration-ms="592" started-at="2018-08-14T05:56:24Z" finished-at="2018-08-14T05:56:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configBeforeClass" is-config="true" duration-ms="13824" started-at="2018-08-14T01:16:34Z" finished-at="2018-08-14T01:16:48Z">
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configBeforeClass" is-config="true" duration-ms="32029" started-at="2018-08-14T05:56:24Z" finished-at="2018-08-14T05:56:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBeforeClass -->
-        <test-method status="PASS" signature="configBeforeMethod()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configBeforeMethod" is-config="true" duration-ms="8759" started-at="2018-08-14T01:16:48Z" finished-at="2018-08-14T01:16:57Z">
+        <test-method status="PASS" signature="configBeforeMethod()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configBeforeMethod" is-config="true" duration-ms="35390" started-at="2018-08-14T05:56:56Z" finished-at="2018-08-14T05:57:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBeforeMethod -->
-        <test-method status="PASS" signature="createContactTest()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="createContactTest" duration-ms="90637" started-at="2018-08-14T01:16:57Z" finished-at="2018-08-14T01:18:27Z">
+        <test-method status="PASS" signature="createContactTest()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="createContactTest" duration-ms="147521" started-at="2018-08-14T05:57:32Z" finished-at="2018-08-14T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContactTest -->
-        <test-method status="PASS" signature="configAfterMethod()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configAfterMethod" is-config="true" duration-ms="509" started-at="2018-08-14T01:18:27Z" finished-at="2018-08-14T01:18:28Z">
+        <test-method status="PASS" signature="configAfterMethod()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configAfterMethod" is-config="true" duration-ms="647" started-at="2018-08-14T05:59:59Z" finished-at="2018-08-14T06:00:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAfterMethod -->
-        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configAfterClass" is-config="true" duration-ms="2558" started-at="2018-08-14T01:18:28Z" finished-at="2018-08-14T01:18:30Z">
+        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configAfterClass" is-config="true" duration-ms="7563" started-at="2018-08-14T06:00:00Z" finished-at="2018-08-14T06:00:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAfterClass -->
-        <test-method status="PASS" signature="configAS()[pri:0, instance:com.endToEndTest.EndToEndTest@3108bc]" name="configAS" is-config="true" duration-ms="921" started-at="2018-08-14T01:18:30Z" finished-at="2018-08-14T01:18:31Z">
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.endToEndTest.EndToEndTest@eec5a4a]" name="configAS" is-config="true" duration-ms="1757" started-at="2018-08-14T06:00:08Z" finished-at="2018-08-14T06:00:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
